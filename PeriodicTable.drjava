@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/PeriodicTable.java" package="" timestamp="11-May-2017 01:11:14">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+      <file name="src/Molecule.java" package="" timestamp="01-May-2017 16:50:25">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+      <file name="src/HTMLFilteredReader.java" package="" timestamp="10-May-2017 15:27:59">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+      <file name="src/Element.java" package="" timestamp="11-May-2017 01:08:34">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+      <file name="src/MySimpleURLReader.java" package="" timestamp="11-May-2017 01:11:37">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+      <file name="src/test.java" package="" timestamp="11-May-2017 01:13:18">
+        <select from="19393" to="19393"/>
+        <scroll column="8934" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../../Downloads/Lab02 2/cs1.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
